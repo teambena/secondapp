@@ -1,0 +1,17 @@
+[
+    {
+        "title":"What is a computer?",
+        "subtitle":"Computer is a things to calculate and fo any other works",
+        "image_url":"https://cdn.pixabay.com/photo/2016/03/26/13/09/workspace-1280538_960_720.jpg"
+    },
+    {
+        "title":"What is a Flutter?",
+        "subtitle":"Flutter is a tool to create a mobile app",
+        "image_url":"https://cdn.pixabay.com/photo/2020/03/31/06/28/goldfinch-4986437_960_720.jpg"
+    },
+    {
+        "title":"What is a Dart?",
+        "subtitle":"Dart is a the language used in flutter",
+        "image_url":"https://cdn.pixabay.com/photo/2018/12/26/14/22/darts-3895861_960_720.jpg"
+    }
+]
